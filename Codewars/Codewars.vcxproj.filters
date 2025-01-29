@@ -33,6 +33,12 @@
     <ClCompile Include="Testing123.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="WhoLikesIt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FindOutlier.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Triangle.h">
@@ -48,6 +54,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Testing123.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WhoLikesIt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FindOutlier.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

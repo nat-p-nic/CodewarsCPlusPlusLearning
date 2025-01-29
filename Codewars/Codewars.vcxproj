@@ -130,17 +130,21 @@
   <ItemGroup>
     <ClCompile Include="CreatePhoneNumber.cpp" />
     <ClCompile Include="DisemvowelTrolls.cpp" />
+    <ClCompile Include="FindOutlier.cpp" />
     <ClCompile Include="Same.cpp" />
     <ClCompile Include="Testing123.cpp" />
     <ClCompile Include="Triangle.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="WhoLikesIt.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CreatePhoneNumber.h" />
     <ClInclude Include="DisemvowelTrolls.h" />
+    <ClInclude Include="FindOutlier.h" />
     <ClInclude Include="Same.h" />
     <ClInclude Include="Testing123.h" />
     <ClInclude Include="Triangle.h" />
+    <ClInclude Include="WhoLikesIt.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

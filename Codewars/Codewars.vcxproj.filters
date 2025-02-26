@@ -48,6 +48,9 @@
     <ClCompile Include="PickPeaks.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="DoesMyNumberLookBigInThis.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Triangle.h">
@@ -78,6 +81,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="PickPeaks.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DoesMyNumberLookBigInThis.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

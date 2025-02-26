@@ -1,5 +1,6 @@
 #include "CreatePhoneNumber.h"
 #include "DisemvowelTrolls.h"
+#include "DoesMyNumberLookBigInThis.h"
 #include "FindOutlier.h"
 #include "FindMissingTermInArithmeticProgression.h"
 #include "MovingZeroesToTheEnd.h"
@@ -14,10 +15,11 @@ int main() {
     
     //CreatePhoneNumber::run_tests();
     /*DisemvowelTrolls::run_tests();*/
+    DoesMyNumberLookBigInThis::run_tests();
     /*FindOutlier::run_tests();*/
     /*FindMissingTermInArithmeticProgression::run_tests();*/
     /*MovingZeroesToTheEnd::run_tests();*/
-    PickPeaks::run_tests();
+    /*PickPeaks::run_tests();*/
     //Same::run_tests();
     /*Testing123::run_tests();*/
     //Triangle::run_tests();

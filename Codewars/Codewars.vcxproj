@@ -130,6 +130,7 @@
   <ItemGroup>
     <ClCompile Include="CreatePhoneNumber.cpp" />
     <ClCompile Include="DisemvowelTrolls.cpp" />
+    <ClCompile Include="DoesMyNumberLookBigInThis.cpp" />
     <ClCompile Include="FindMissingTermInArtithmeticProgression.cpp" />
     <ClCompile Include="FindOutlier.cpp" />
     <ClCompile Include="MovingZeroesToTheEnd.cpp" />
@@ -143,6 +144,7 @@
   <ItemGroup>
     <ClInclude Include="CreatePhoneNumber.h" />
     <ClInclude Include="DisemvowelTrolls.h" />
+    <ClInclude Include="DoesMyNumberLookBigInThis.h" />
     <ClInclude Include="FindMissingTermInArithmeticProgression.h" />
     <ClInclude Include="FindOutlier.h" />
     <ClInclude Include="MovingZeroesToTheEnd.h" />
